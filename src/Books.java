@@ -14,7 +14,7 @@ public class Books
 	
 	public void display()
 	{
-		System.out.println(this.bookName + " has " + this.chapters + " chapters and is about " + this.discription);
+		System.out.println(bookName + " has " + chapters + " chapters and is about " + discription);
 	}
 
 }
